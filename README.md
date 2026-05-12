@@ -211,4 +211,3 @@ ResearchMind delivers similar capabilities to ChatGPT's research feature:
 - Research history and bookmarking
 - Custom report templates
 - Parallel agent execution for speed optimization
-- Caching layer for frequently researched topics
